@@ -1,0 +1,33 @@
+[32mINFO    [0m root:base.py:10 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="e07852b8d41e33d8e4829ca654d29892")>
+[32mINFO    [0m root:page_mp_login.py:39 正在调用自媒体登录业务方法,用户名: 13812345678,密码: 246810
+[32mINFO    [0m root:base.py:15 正在查找元素:('css selector', "[placeholder='请输入手机号']")
+[32mINFO    [0m root:base.py:29 正在对 ('css selector', "[placeholder='请输入手机号']") 元素执行清空操作! 
+[32mINFO    [0m root:base.py:32 正在对 ('css selector', "[placeholder='请输入手机号']") 元素执行输入: 13812345678 操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('css selector', "[placeholder='验证码']")
+[32mINFO    [0m root:base.py:29 正在对 ('css selector', "[placeholder='验证码']") 元素执行清空操作! 
+[32mINFO    [0m root:base.py:32 正在对 ('css selector', "[placeholder='验证码']") 元素执行输入: 246810 操作! 
+[32mINFO    [0m root:base.py:37 正在对 ('css selector', '.el-button--primary') 元素执行点击操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('css selector', '.el-button--primary')
+[32mINFO    [0m root:base.py:10 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="e07852b8d41e33d8e4829ca654d29892")>
+[32mINFO    [0m root:base.py:37 正在对 ('xpath', "//span[text()='内容管理']/..") 元素执行点击操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//span[text()='内容管理']/..")
+[32mINFO    [0m root:base.py:37 正在对 ('xpath', "//*[contains(text(),'发布文章')]") 元素执行点击操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//*[contains(text(),'发布文章')]")
+[32mINFO    [0m root:base.py:15 正在查找元素:('css selector', "[placeholder='文章名称']")
+[32mINFO    [0m root:base.py:29 正在对 ('css selector', "[placeholder='文章名称']") 元素执行清空操作! 
+[32mINFO    [0m root:base.py:32 正在对 ('css selector', "[placeholder='文章名称']") 元素执行输入: test001-bj001 操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('css selector', '#publishTinymce_ifr')
+[32mINFO    [0m root:base.py:15 正在查找元素:('css selector', '#tinymce')
+[32mINFO    [0m root:base.py:29 正在对 ('css selector', '#tinymce') 元素执行清空操作! 
+[32mINFO    [0m root:base.py:32 正在对 ('css selector', '#tinymce') 元素执行输入: 今晚炖火锅！ 操作! 
+[32mINFO    [0m root:base.py:37 正在对 ('xpath', "//*[text()='自动']") 元素执行点击操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//*[text()='自动']")
+[32mINFO    [0m root:base.py:37 正在对 ('css selector', "[placeholder='请选择']") 元素执行点击操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('css selector', "[placeholder='请选择']")
+[32mINFO    [0m root:base.py:37 正在对 ('xpath', "//*[text()='数据库']") 元素执行点击操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//*[text()='数据库']")
+[32mINFO    [0m root:base.py:37 正在对 ('xpath', "//*[text()='发表']/..") 元素执行点击操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//*[text()='发表']/..")
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//*[contains(text(),'新增文章成功')]")
+[32mINFO    [0m root:base.py:42 正在对 ('xpath', "//*[contains(text(),'新增文章成功')]") 元素执行获取文本操作! 获取的文本值: 新增文章成功
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//*[contains(text(),'新增文章成功')]")

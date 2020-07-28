@@ -1,0 +1,36 @@
+2020-07-26 20:17:25,409 INFO [base.py(__init__:10)] - 正在初始化driver: <appium.webdriver.webdriver.WebDriver (session="8a64399d-9731-4574-a458-918a4d48d5ff")>
+2020-07-26 20:17:25,458 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2020-07-26 20:17:29,768 INFO [base.py(base_input:29)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行清空操作! 
+2020-07-26 20:17:29,783 INFO [base.py(base_input:32)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入: 13812345678 操作! 
+2020-07-26 20:26:10,223 INFO [base.py(__init__:10)] - 正在初始化driver: <appium.webdriver.webdriver.WebDriver (session="6145b8ec-93c0-4b69-a644-5ceb99d31bdd")>
+2020-07-26 20:26:10,859 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2020-07-26 20:26:14,912 INFO [base.py(base_input:29)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行清空操作! 
+2020-07-26 20:26:14,930 INFO [base.py(base_input:32)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入: 13812345678 操作! 
+2020-07-26 20:46:35,398 INFO [base.py(__init__:10)] - 正在初始化driver: <appium.webdriver.webdriver.WebDriver (session="b3fc3d0b-b3f6-4a37-9db7-a111c0f232e1")>
+2020-07-26 20:46:35,402 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2020-07-26 20:46:40,077 INFO [base.py(base_input:29)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行清空操作! 
+2020-07-26 20:46:40,091 INFO [base.py(base_input:32)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入: 13812345678 操作! 
+2020-07-26 20:51:56,452 INFO [base.py(__init__:10)] - 正在初始化driver: <appium.webdriver.webdriver.WebDriver (session="9747831e-5896-4cc7-ad76-c7606d47ed3b")>
+2020-07-26 20:51:56,456 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2020-07-26 20:52:00,856 INFO [base.py(base_input:29)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行清空操作! 
+2020-07-26 20:52:00,866 INFO [base.py(base_input:32)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入: 13812345678 操作! 
+2020-07-26 21:30:06,999 INFO [base.py(__init__:10)] - 正在初始化driver: <appium.webdriver.webdriver.WebDriver (session="ba578659-61f8-4767-94ea-d38c65dfa617")>
+2020-07-26 21:30:07,002 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2020-07-26 21:30:11,587 INFO [base.py(base_input:29)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行清空操作! 
+2020-07-26 21:30:13,920 INFO [base.py(base_input:32)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入: 13812345678 操作! 
+2020-07-26 21:30:18,754 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2020-07-26 21:30:18,783 INFO [base.py(base_input:29)] - 正在对 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行清空操作! 
+2020-07-26 21:30:20,835 INFO [base.py(base_input:32)] - 正在对 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入: 246810 操作! 
+2020-07-26 21:30:28,040 INFO [base.py(base_click:37)] - 正在对 ('xpath', "//*[@text='登录' and @class='android.widget.Button']") 元素执行点击操作! 
+2020-07-26 21:30:28,040 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@text='登录' and @class='android.widget.Button']")
+2020-07-26 21:30:31,203 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@index='3' and contains(@text,'我的')]")
+2020-07-26 21:36:24,830 INFO [base.py(__init__:10)] - 正在初始化driver: <appium.webdriver.webdriver.WebDriver (session="d536dcef-3c38-4d91-8dee-6c5d8c0a1ec1")>
+2020-07-26 21:36:24,834 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2020-07-26 21:36:29,999 INFO [base.py(base_input:29)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行清空操作! 
+2020-07-26 21:36:33,391 INFO [base.py(base_input:32)] - 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入: 13812345678 操作! 
+2020-07-26 21:36:37,790 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2020-07-26 21:36:37,833 INFO [base.py(base_input:29)] - 正在对 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行清空操作! 
+2020-07-26 21:36:40,860 INFO [base.py(base_input:32)] - 正在对 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入: 246810 操作! 
+2020-07-26 21:36:48,592 INFO [base.py(base_click:37)] - 正在对 ('xpath', "//*[@text='登录' and @class='android.widget.Button']") 元素执行点击操作! 
+2020-07-26 21:36:48,592 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@text='登录' and @class='android.widget.Button']")
+2020-07-26 21:36:51,759 INFO [base.py(base_find:15)] - 正在查找元素:('xpath', "//*[@index='3' and contains(@text,'我的')]")

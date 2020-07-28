@@ -1,0 +1,13 @@
+[32mINFO    [0m root:base.py:10 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="b4c94785dbf21b8fd677d852854aedba")>
+[32mINFO    [0m root:page_mp_login.py:39 正在调用自媒体登录业务方法,用户名: 13812345678,密码: 246810
+[32mINFO    [0m root:base.py:15 正在查找元素:('css selector', "[placeholder='请输入手机号']")
+[32mINFO    [0m root:base.py:29 正在对 ('css selector', "[placeholder='请输入手机号']") 元素执行清空操作! 
+[32mINFO    [0m root:base.py:32 正在对 ('css selector', "[placeholder='请输入手机号']") 元素执行输入: 13812345678 操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('css selector', "[placeholder='验证码']")
+[32mINFO    [0m root:base.py:29 正在对 ('css selector', "[placeholder='验证码']") 元素执行清空操作! 
+[32mINFO    [0m root:base.py:32 正在对 ('css selector', "[placeholder='验证码']") 元素执行输入: 246810 操作! 
+[32mINFO    [0m root:base.py:37 正在对 ('css selector', '.el-button--primary') 元素执行点击操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('css selector', '.el-button--primary')
+[32mINFO    [0m root:base.py:10 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="b4c94785dbf21b8fd677d852854aedba")>
+[32mINFO    [0m root:base.py:37 正在对 ('xpath', "//font[text()='内容管理']/..") 元素执行点击操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//font[text()='内容管理']/..")

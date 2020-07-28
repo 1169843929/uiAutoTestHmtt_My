@@ -1,0 +1,10 @@
+[32mINFO    [0m root:base.py:10 正在初始化driver: <appium.webdriver.webdriver.WebDriver (session="ec03c847-6d3c-43e8-867d-bdb18c541a17")>
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+[32mINFO    [0m root:base.py:29 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行清空操作! 
+[32mINFO    [0m root:base.py:32 正在对 ('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入: 13812345678 操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+[32mINFO    [0m root:base.py:29 正在对 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行清空操作! 
+[32mINFO    [0m root:base.py:32 正在对 ('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入: 246810 操作! 
+[32mINFO    [0m root:base.py:37 正在对 ('xpath', "//*[@text='登录' and @class='android.widget.Button']") 元素执行点击操作! 
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//*[@text='登录' and @class='android.widget.Button']")
+[32mINFO    [0m root:base.py:15 正在查找元素:('xpath', "//*[@index='3' and contains(@text,'我的')]")
